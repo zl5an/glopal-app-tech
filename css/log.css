@@ -1,0 +1,15 @@
+.form-control{padding: 5px;width:150px;margin-top:  10px;	margin-bottom: 25px}
+  button{margin-top:10px ;margin-bottom:25px}
+body{font-family: 'roboto',sans-serif;background:  url(../img/slide2.jpg) no-repeat     fixed; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; }
+.main-section{margin: 0 auto;margin-top: 100px}
+.modal-content{background-color: #08526D}
+.user-img img{    box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.80), 0 4px 25px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+    margin: 15px;
+    border-radius: 3px;
+    padding: 15px 0;
+    background-color: #FFFFFF;    display: block;
+    margin-right: auto;
+    margin-left: auto;    margin-top: -3em;}
+	.mm input{padding-left:  50px}
+button:hover{background-color: #333!important;color:#FFE484 !important}
+.hidden{display: none}

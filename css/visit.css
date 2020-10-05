@@ -1,0 +1,24 @@
+body{overflow: hidden;width: 100%;height: 100%;font-family: 'roboto',sans-serif;background:  url(../img/slide2.jpg) no-repeat     fixed; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover; }
+
+
+
+.navbar .navbar-expand-lg {
+    box-shadow: 0px 0.5px 2px #333;display: block
+}
+#menu-sticky-wrapper{width: 1192px;
+    
+    top: 0px;}
+#menu {
+    z-index: 99;}
+	input:hover{background-color: #333!important;color:#FFE484 !important}
+ 
+	
+	h3{text-align: right;color: #FFE484}
+	/*form*/
+	.form-control{text-align: right;}
+	
+	/*footer*/
+	footer .social-list li{overflow: hidden;margin: 0 0 0 0 ; padding: 3px}
+footer  .social-list li{float: left;opacity: .7}
+footer  .social-list li:hover{opacity: 1;transition: all 0.7s ease-in-out}
+		 .fa-facebook-official:before{color: #3b5998;    color: #fff!important}

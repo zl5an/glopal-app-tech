@@ -1,0 +1,34 @@
+
+
+
+
+body{width:100%!important;overflow-x: hidden!important}
+/*uper*/
+.btn-bd-download {margin-right: 550px;}
+.bull-left{float: right!important}
+.bull-right{float: left!important}
+#read:before{font-family: 'FontAwesome';
+    content: "\f137";
+    display: inline-block;
+    margin-right: 5px}
+	/*navbar*/
+ 
+ 
+ 
+ 
+ /*contact*/
+ 
+ 
+ 
+ .contact-us a{margin-right: 350px}
+ 
+  .contact-us p{margin-left: 150 px}
+ /*footer*/
+ #h-foott{margin-left: 370px }
+ 
+ .mx-auto h5{text-align: right}
+ .list-unstyled a{text-align: right!important}
+ .fa-apple:before {  margin-left: 60px}
+ .fa-android:before {margin-left: 10px}
+ 
+.fot{text-align: right}
